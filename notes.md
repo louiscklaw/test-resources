@@ -1,1 +1,1 @@
-https://cdn.jsdelivr.net/gh/louiscklaw/test-resources@master/20180107f232345.jpg
+https://cdn.jsdelivr.net/gh/louiscklaw/test-resources@master/96-961939_super-mario-clipart-paper-mario-mario-morton-koopa.png
